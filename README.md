@@ -1,54 +1,48 @@
-# 👋 Hi, I'm Hema Malini
+# 👋 Hi, I'm Hema Malini  
+🎯 Aspiring Data Analyst | SQL | Power BI  
 
-🎯 **Aspiring Data Analyst | SQL | Power BI | Business Insights**
-
-**Aspiring Data Analyst** with strong expertise in SQL and Power BI, passionate about transforming raw data into actionable insights. My portfolio showcases projects in customer behavior and e‑commerce sales analysis, where I built interactive dashboards, applied segmentation strategies, and uncovered revenue opportunities. Skilled in data visualization, storytelling, and business analytics, I am eager to contribute to data‑driven decision‑making and support organizational growth.
-
----
-
-## 🔧 Technical Skills
-* **SQL**: Joins, Aggregations, Subqueries, Window Functions  
-* **Power BI**: Interactive Dashboards, KPIs, Basic DAX  
-* **Excel**: Pivot Tables, Charts, Basic Functions  
-* **Data Analysis**: Data Cleaning, Data Transformation, Exploratory Analysis  
-* **Tools**: MySQL, Power BI Desktop, Excel
+Data Analyst skilled in SQL and Power BI, focused on transforming raw data into actionable insights and supporting data-driven decision-making.
 
 ---
 
-## 📊 Featured Projects
-
-### 🔹 Customer Behavior and Revenue Analysis
-* Analyzed customer rental data using SQL (Sakila Database)  
-* Identified top customers, revenue‑driving films, and category performance  
-* Built a Power BI dashboard to visualize KPIs and trends
-
-### 🔹 E‑Commerce Sales Performance Dashboard
-* Analyzed sales, profit, and regional trends using a real‑world dataset  
-* Identified high‑performing products and seasonal patterns  
-* Created an interactive dashboard to support business decisions
+## 🔧 Skills  
+- **SQL**: Joins, Window Functions, Aggregations  
+- **Power BI**: Dashboards, KPIs, DAX (CALCULATE, FILTER, IF,)  
+- **Excel**: Pivot Tables, Data Analysis  
+- **Tools**: MySQL, Power BI Desktop  
 
 ---
 
-## 💡 Key Strengths
-* Strong understanding of **business‑focused data analysis**  
-* Ability to convert data into **actionable insights**  
-* Experience in **end‑to‑end project workflow** — Data → Analysis → Dashboard → Insights  
-* Skilled in **data storytelling and visualization**
+## 📊 Projects  
+
+### 🔹 Customer Behavior & Revenue Analysis (SQL + Power BI)  
+- Analyzed Sakila database using SQL to uncover customer and revenue trends.
+- Identified top customers and high-performing film categories driving revenue.
+- Built an interactive Power BI dashboard to track KPIs and insights.
+- Delivered actionable insights for customer targeting and business growth.
+👉 [View Project](#)
 
 ---
 
-## 🌟 Soft Skills
-* **Communication and Storytelling** — Presenting insights clearly to technical and non‑technical audiences  
-* **Problem Solving** — Framing business questions and deriving data‑driven solutions  
-* **Attention to Detail** — Ensuring accuracy in cleaning, analysis, and reporting  
-* **Collaboration** — Working effectively with cross‑functional teams  
-* **Adaptability** — Quickly learning new tools and approaches
+### 🔹 E-Commerce Sales Dashboard (Power BI)  
+- Analyzed sales, profit, and regional performance using real-world data.
+- Identified top products, seasonal trends, and low-performing regions.
+- Created an interactive Power BI dashboard for business insights.
+- Provided data-driven recommendations to improve sales and profitability.  
+👉 [View Dashboard](#)
 
 ---
 
-## 📫 Contact Me
-**Email:** [alluhemamalini08@gmail.com](mailto:alluhemamalini08@gmail.com)
+## 💡 Key Strengths  
+- Data visualization  
+- Business-focused analysis  
+- End-to-end workflow: **Data → Insights → Dashboard**  
 
 ---
 
-⭐ *Actively seeking Data Analyst opportunities to apply my skills, solve real business problems, and grow as a data professional.*
+## 📫 Contact  
+📧 alluhemamalini08@gmail.com  
+
+---
+
+⭐ Seeking Data Analyst opportunities to apply my SQL and Power BI skills to deliver actionable business insights
