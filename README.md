@@ -20,7 +20,6 @@ Data Analyst skilled in SQL and Power BI, focused on transforming raw data into 
 - Identified top customers and high-performing film categories driving revenue.
 - Built an interactive Power BI dashboard to track KPIs and insights.
 - Delivered actionable insights for customer targeting and business growth.
-👉 [View Project](#)
 
 ---
 
@@ -29,7 +28,6 @@ Data Analyst skilled in SQL and Power BI, focused on transforming raw data into 
 - Identified top products, seasonal trends, and low-performing regions.
 - Created an interactive Power BI dashboard for business insights.
 - Provided data-driven recommendations to improve sales and profitability.  
-👉 [View Dashboard](#)
 
 ---
 
