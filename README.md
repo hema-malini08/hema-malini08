@@ -7,7 +7,7 @@ Data Analyst skilled in SQL and Power BI, focused on transforming raw data into 
 
 ## 🔧 Skills  
 - **SQL**: Joins, Window Functions, Aggregations  
-- **Power BI**: Dashboards, KPIs, DAX (CALCULATE, FILTER, IF,)  
+- **Power BI**: Dashboards, KPIs, 
 - **Excel**: Pivot Tables, Data Analysis  
 - **Tools**: MySQL, Power BI Desktop  
 
