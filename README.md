@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hema Malini  
-🎯 Data Analyst | EXCEL | SQL | Power BI  
+🎯 Data Analyst | EXCEL | SQL | Power BI | Python(Pandas)  
 
 Data Analyst skilled in Excel, SQL and Power BI, focused on transforming raw data into actionable insights and supporting data-driven decision-making.
 
@@ -8,7 +8,8 @@ Data Analyst skilled in Excel, SQL and Power BI, focused on transforming raw dat
 ## 🔧 Skills  
 - **SQL**: Joins, Aggregations, Window functions  
 - **Power BI**: Dashboards, KPIs 
-- **Excel**: Power Query, Pivot Tables, Data Analysis  
+- **Excel**: Power Query, Pivot Tables, Data Analysis
+- **Python**: Pandas
 - **Tools**: MySQL, Power BI Desktop
 
 ---
