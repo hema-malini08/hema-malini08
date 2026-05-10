@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Hema Malini  
 🎯 Data Analyst | EXCEL | SQL | Power BI | Python(Pandas)
+
 📌 Currently working as a Data Science & Analytics Intern at Future Interns
 
 Data Analyst skilled in Excel, SQL, Power BI, and Python focused on transforming raw data into actionable insights and supporting data-driven decision-making.
